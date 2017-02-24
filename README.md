@@ -1,19 +1,19 @@
 # Page blocker
 
-## three types of page block
+## Three types of page blocker
 
 * DOM block
 * CSSOM block
 * Render block
 
-# demo
+# Demo
 
 ```
 npm install
 npm start
 ```
 
-# references
+# References
 
 * https://calendar.perfplanet.com/2012/deciphering-the-critical-rendering-path/ (TL;DR)
 * https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp
